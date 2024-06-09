@@ -8,6 +8,7 @@ RTeX is fully implemented in the most recent ROS 2 version [Humble](https://docs
 We added a new executor class `RTeX_executor` in folder *rclccp/executors*. 
 Below is an explanation of the directories/files found in this repo. Note that only the modified/added files are presented.
 
+
 ```tex
 src/
 ├─ demos/     /* Experiments and Case study used */
